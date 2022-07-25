@@ -14,12 +14,7 @@
             "role": "Creator & Designer"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/vddinh89/support"
-        }
-    ],
+
     "require": {
         "php": ">=7.0",
         "doctrine/dbal": "^2.6",
@@ -33,7 +28,12 @@
         "jaybizzle/crawler-detect": "~1.0",
         "psr/log": "~3.0"
     },
-
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vddinh89/support"
+        }
+    ],
     "suggest": {
         "geoip/geoip": "~1.14",
         "geoip2/geoip2": "~2.0"
