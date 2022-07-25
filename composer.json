@@ -31,7 +31,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/vddinh89/support"
+            "url": "https://github.com/vddinh89/fixsupport"
         }
     ],
     "suggest": {
