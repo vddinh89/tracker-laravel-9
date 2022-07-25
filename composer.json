@@ -19,7 +19,7 @@
             "type": "vcs",
             "url": "https://github.com/vddinh89/support"
         }
-    ]
+    ],
     "require": {
         "php": ">=7.0",
         "doctrine/dbal": "^2.6",
